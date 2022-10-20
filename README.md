@@ -1,6 +1,6 @@
 Hi, I’m @RudeSubded 
-and I'm interested in learning more about java (and javascript)
-so I’m currently learning how to code with java
+and I'm interested in learning more about C# (and javascript)
+so I’m currently learning how to code with C# 
 but unfortunately I’m not looking to collaborate on anything atm.
 And How to reach me? you don't. 😁
 
